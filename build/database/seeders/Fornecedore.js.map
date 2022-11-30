@@ -1,0 +1,1 @@
+{"version":3,"file":"Fornecedore.js","sourceRoot":"","sources":["../../../database/seeders/Fornecedore.ts"],"names":[],"mappings":";;;;;AAAA,uFAAiD;AACjD,+FAAgD;AAEhD,eAAqB,SAAQ,gBAAU;IAC9B,KAAK,CAAC,GAAG;QACd,MAAM,qBAAW,CAAC,UAAU,CAAC;YAC3B,EAAC,cAAc,EAAE,SAAS;gBAC1B,IAAI,EAAE,KAAK;gBACX,QAAQ,EAAE,EAAE;gBACZ,WAAW,EAAE,CAAC,EAAC;SAChB,CAAC,CAAA;IACJ,CAAC;CACF;AATD,4BASC"}
